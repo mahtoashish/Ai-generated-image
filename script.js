@@ -73,7 +73,7 @@ const handleImageGeneration = (e) => {
       `<div class="img-card loading">
         <img src="loader.svg" alt="AI generated image">
         <a class="download-btn" href="#">
-          <img src="images/download.svg" alt="download icon">
+          <img src="download.svg" alt="download icon">
         </a>
       </div>`
   ).join("");
